@@ -2,6 +2,6 @@
 
 Este repositorio es para realizar pruebas
 
-Última línea agregada al README desde GitHub (pot german098Pruebas)
+	Comentario de german098
 
 Fin README
